@@ -13,7 +13,7 @@
 
 <img src="figs/MUFusion.png" width="610">
 
-#### [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253522002202)]  [[Code](https://github.com/AWCXV/MUFusion)]
+#### [[Paper](https://doi.org/10.1016/j.inffus.2022.11.010)]  [[Code](https://github.com/AWCXV/MUFusion)]
 ---
 
 ### RFN-Nest: An end-to-end residual fusion network for infrared and visible images
@@ -22,4 +22,12 @@
 <img src="https://github.com/hli1221/imagefusion-rfn-nest/blob/main/framework/framework.png" width="600">
 
 #### [[Paper](https://doi.org/10.1016/j.inffus.2021.02.023)]  [[Code](https://github.com/hli1221/imagefusion-rfn-nest)]
+---
+
+### UNIFusion: A Lightweight Unified Image Fusion Network
+*Chunyang Cheng, Xiao-Jun Wu, Tianyang Xu, Guoyang Chen*.  **IEEE Transactions on Instrumentation and Measurement, 2021**.
+
+<img src="" width="600">
+
+#### [[Paper](https://doi.org/10.1109/TIM.2021.3109379)]  [[Code](https://github.com/AWCXV/UNIFusion)]
 ---
