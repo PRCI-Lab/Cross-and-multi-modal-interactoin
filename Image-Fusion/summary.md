@@ -11,6 +11,7 @@
 ### MUFusion: A general unsupervised image fusion network based on memory unit
 *Chunyang Cheng, [Tianyang Xu](https://xu-tianyang.github.io/), Xiao-Jun Wu*. **Information Fusion, 2023**.
 
+<img src="figs/MUFusion.png" width="610">
 
 #### [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253522002202)]  [[Code](https://github.com/AWCXV/MUFusion)]
 ---
