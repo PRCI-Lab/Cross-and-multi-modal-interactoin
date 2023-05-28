@@ -1,7 +1,7 @@
 # Image Fusion Research of PRCI-Lab
 
 ### LRRNet: A Novel Representation Learning Guided Fusion Framework for Infrared and Visible Images
-*[Hui Li](https://hli1221.github.io/), [Tianyang Xu](https://xu-tianyang.github.io/), Xiao-Jun Wu, Jiwen Lu, Josef Kittler*. **TPAMI, 2023**.
+*[Hui Li](https://hli1221.github.io/), [Tianyang Xu](https://xu-tianyang.github.io/), Xiao-Jun Wu, Jiwen Lu, Josef Kittler*. **IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023**.
 
 <img src="https://github.com/hli1221/imagefusion-LRRNet/blob/main/framework/fusion.gif" width="600">
 
@@ -25,9 +25,37 @@
 ---
 
 ### UNIFusion: A Lightweight Unified Image Fusion Network
-*Chunyang Cheng, Xiao-Jun Wu, Tianyang Xu, Guoyang Chen*.  **IEEE Transactions on Instrumentation and Measurement, 2021**.
+*Chunyang Cheng, Xiao-Jun Wu, [Tianyang Xu](https://xu-tianyang.github.io/), Guoyang Chen*.  **IEEE Transactions on Instrumentation and Measurement (TIM), 2021**.
 
 <img src="figs/UNIFusion.png" width="600">
 
 #### [[Paper](https://doi.org/10.1109/TIM.2021.3109379)]  [[Code](https://github.com/AWCXV/UNIFusion)]
 ---
+
+### UMFA: a photorealistic style transfer method based on U-Net and multi-layer feature aggregation
+*Dongyu Rao, Xiao-Jun Wu, Hui Li, Josef Kittler, Tianyang Xu*. **Journal of Electronic Imaging (JEI), 2021**.
+
+<img src="figs/" width="600">
+
+#### [[Paper](https://doi.org/10.1117/1.JEI.30.5.053013)]  [[Code](https://github.com/dongyuya/UMFA)]
+---
+
+### NestFuse: An Infrared and Visible Image Fusion Architecture based on Nest Connection and Spatial/Channel Attention Models
+*[Hui Li](https://hli1221.github.io/), Xiao-Jun Wu, Tariq S. Durrani*. **IEEE Transactions on Instrumentation and Measurement (TIM), 2020**.
+
+<img src="https://github.com/hli1221/imagefusion-nestfuse/blob/master/figures/framework_test-01.png" width="600">
+
+#### [[Paper](https://doi.org/10.1109/TIM.2020.3005230)]  [[Code](https://github.com/hli1221/imagefusion-nestfuse)]
+---
+
+### MDLatLRR: A novel decomposition method for infrared and visible image fusion
+*[Hui Li](https://hli1221.github.io/), Xiao-Jun Wu, Josef Kittler*. **IEEE Transactions on Image Processing (TIP), 2020**.
+
+<img src="https://github.com/hli1221/imagefusion_mdlatlrr/blob/master/figures/framework.png" width="600">
+
+#### [[Paper](https://doi.org/10.1109/TIP.2020.2975984)]  [[Code](https://github.com/hli1221/imagefusion_mdlatlrr)]
+---
+
+
+
+
