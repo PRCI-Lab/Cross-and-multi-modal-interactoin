@@ -27,7 +27,7 @@
 ### UNIFusion: A Lightweight Unified Image Fusion Network
 *Chunyang Cheng, Xiao-Jun Wu, Tianyang Xu, Guoyang Chen*.  **IEEE Transactions on Instrumentation and Measurement, 2021**.
 
-<img src="" width="600">
+<img src="figs/UNIFusion.png" width="600">
 
 #### [[Paper](https://doi.org/10.1109/TIM.2021.3109379)]  [[Code](https://github.com/AWCXV/UNIFusion)]
 ---
