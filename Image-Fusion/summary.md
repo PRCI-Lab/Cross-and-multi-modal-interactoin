@@ -35,9 +35,9 @@
 ### MEFuse: end-to-end infrared and visible image fusion method based on multibranch encoder
 *Yulu Hong, Xiao-Jun Wu, [Tianyang Xu](https://xu-tianyang.github.io/)*. **Journal of Electronic Imaging (JEI), 2022**.
 
-<img src="" width="600">
+<img src="figs/MEFuse.png" width="600">
 
-#### [[Paper](https://doi.org/10.1117/1.JEI.31.3.033043)]  [[Code]()]
+#### [[Paper](https://doi.org/10.1117/1.JEI.31.3.033043)]
 ---
 
 ### RFN-Nest: An end-to-end residual fusion network for infrared and visible images
@@ -59,7 +59,7 @@
 ### UMFA: a photorealistic style transfer method based on U-Net and multi-layer feature aggregation
 *Dongyu Rao, Xiao-Jun Wu, [Hui Li](https://hli1221.github.io/), Josef Kittler, [Tianyang Xu](https://xu-tianyang.github.io/)*. **Journal of Electronic Imaging (JEI), 2021**.
 
-<img src="figs/" width="600">
+<img src="figs/UMFA.png" width="600">
 
 #### [[Paper](https://doi.org/10.1117/1.JEI.30.5.053013)]  [[Code](https://github.com/dongyuya/UMFA)]
 ---
@@ -75,9 +75,9 @@
 ### Effective method for fusing infrared and visible images
 *Yu Fu, Xiao-Jun Wu, Josef Kittler*. **Journal of Electronic Imaging (JEI), 2021**.
 
-<img src="" width="600">
+<img src="figs/Effective_Fusion.png" width="600">
 
-#### [[Paper](https://doi.org/10.1117/1.JEI.30.3.033013)]  [[Code]()]
+#### [[Paper](https://doi.org/10.1117/1.JEI.30.3.033013)]
 ---
 
 ### MSC-Fuse: An Unsupervised Multi-scale Convolutional Fusion Framework for Infrared and Visible Image
@@ -85,7 +85,7 @@
 
 <img src="figs/MSC-Fuse.png" width="600">
 
-#### [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-87355-4_4)]  [[Code]()]
+#### [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-87355-4_4)]
 ---
 
 ### NestFuse: An Infrared and Visible Image Fusion Architecture based on Nest Connection and Spatial/Channel Attention Models
