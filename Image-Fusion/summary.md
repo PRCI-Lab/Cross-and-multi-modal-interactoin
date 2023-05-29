@@ -57,7 +57,7 @@
 ---
 
 ### UMFA: a photorealistic style transfer method based on U-Net and multi-layer feature aggregation
-*Dongyu Rao, Xiao-Jun Wu, Hui Li, Josef Kittler, Tianyang Xu*. **Journal of Electronic Imaging (JEI), 2021**.
+*Dongyu Rao, Xiao-Jun Wu, [Hui Li](https://hli1221.github.io/), Josef Kittler, [Tianyang Xu](https://xu-tianyang.github.io/)*. **Journal of Electronic Imaging (JEI), 2021**.
 
 <img src="figs/" width="600">
 
@@ -104,4 +104,10 @@
 #### [[Paper](https://doi.org/10.1109/ICPR48806.2021.9412293)]  [[Code](https://github.com/thfylsty/ImageFusion_Dualbranch_Fusion)]
 ---
 
+### MSC-Fuse: An Unsupervised Multi-scale Convolutional Fusion Framework for Infrared and Visible Image
+*Guo-Yang Chen, Xiao-Jun Wu, [Hui Li](https://hli1221.github.io/), [Tianyang Xu](https://xu-tianyang.github.io/)*. **Image and Graphics: 11th International Conference(ICIG), 2021)**
 
+<img src="figs/MSC-Fuse.png" width="600">
+
+#### [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-87355-4_4)]  [[Code]()]
+---
