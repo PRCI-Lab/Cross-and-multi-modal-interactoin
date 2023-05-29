@@ -105,7 +105,7 @@
 ---
 
 ### MSC-Fuse: An Unsupervised Multi-scale Convolutional Fusion Framework for Infrared and Visible Image
-*Guo-Yang Chen, Xiao-Jun Wu, [Hui Li](https://hli1221.github.io/), [Tianyang Xu](https://xu-tianyang.github.io/)*. **Image and Graphics: 11th International Conference(ICIG), 2021)**
+*Guo-Yang Chen, Xiao-Jun Wu, [Hui Li](https://hli1221.github.io/), [Tianyang Xu](https://xu-tianyang.github.io/)*. **Image and Graphics: 11th International Conference(ICIG), 2021**.
 
 <img src="figs/MSC-Fuse.png" width="600">
 
