@@ -16,6 +16,15 @@
 #### [[Paper](https://doi.org/10.1016/j.inffus.2022.11.010)]  [[Code](https://github.com/AWCXV/MUFusion)]
 ---
 
+### TGFuse: An Infrared and Visible Image Fusion Approach Based on Transformer and Generative Adversarial Network
+*Dongyu Rao, [Tianyang Xu](https://xu-tianyang.github.io/), Xiao-Jun Wu*. **IEEE Transactions on Image Processing(TIP), 2023**.
+
+<img src="figs/TGFuse.png" width="600">
+
+#### [[Paper](https://doi.org/10.1109/TIP.2023.3273451)]  [[Code](https://github.com/dongyuya/TGFuse)]
+---
+
+
 ### RFN-Nest: An end-to-end residual fusion network for infrared and visible images
 *[Hui Li](https://hli1221.github.io/), Xiao-Jun Wu, Josef Kittler*. **Information Fusion, 2021**.
 
