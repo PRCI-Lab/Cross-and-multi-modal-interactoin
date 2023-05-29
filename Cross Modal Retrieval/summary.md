@@ -108,7 +108,7 @@
 
 <img src="figs/scalablegif.gif" width="600">
 
-#### [[Paper](https://doi.org/10.1109/TCYB.2020.3032017)]  [[Code](https://github.com/zhangdlin/SDMSA)]
+#### [[Paper](https://doi.org/10.1007/s10044-020-00870-z)]  [[Code]()]
 ---
 
 ### Learning discriminative hashing codes for cross-modal retrieval based on multi-view features
