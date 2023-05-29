@@ -112,3 +112,42 @@
 #### [[Paper](https://doi.org/10.1109/ICPR48806.2021.9412293)]  [[Code](https://github.com/thfylsty/ImageFusion_Dualbranch_Fusion)]
 ---
 
+### Infrared and Visible Image Fusion with ResNet and zero-phase component analysis
+*[Hui Li](https://hli1221.github.io/), Xiao-Jun Wu*. **Journal of Infrared Physics & Technology (JIPT), 2019**.
+
+<img src="https://github.com/hli1221/imagefusion_resnet50/blob/master/figures/framework.png" width="600">
+
+#### [[Paper](https://doi.org/10.1016/j.infrared.2019.103039)]  [[Code](https://github.com/hli1221/imagefusion_resnet50)]
+---
+
+### MSDNet for Medical Image Fusion
+*Xu Song, , Xiao-Jun Wu , [Hui Li](https://hli1221.github.io/)*. **International Conference on Image and Graphics (ICIG), 2019**
+
+<img src="https://github.com/songxujay/MSDNet-for-Medical-Image-Fusion/blob/master/figures/framework.png" width="600">
+
+#### [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-34110-7_24)]  [[Code](https://github.com/songxujay/MSDNet-for-Medical-Image-Fusion)]
+---
+
+### DenseFuse: A Fusion Approach to Infrared and Visible Images
+*[Hui Li](https://hli1221.github.io/), Xiao-Jun Wu*. **IEEE Transactions on Image Processing (TIP), 2019**.
+
+<img src="https://github.com/hli1221/imagefusion_densefuse/blob/master/figures/framework.png" width="600">
+
+#### [[Paper](https://doi.org/10.1109/TIP.2018.2887342)]  [[Code](https://github.com/hli1221/imagefusion_densefuse)]
+---
+
+### Infrared and Visible Image Fusion using a Deep Learning Framework
+*[Hui Li](https://hli1221.github.io/), Xiao-Jun Wu, Josef Kittler*. **IEEE International Conference on Pattern Recognition (ICPR), 2018**.
+
+<img src="https://github.com/hli1221/imagefusion_deeplearning/blob/master/framework/framework_method.png" width="600">
+
+#### [[Paper](https://doi.org/10.1109/ICPR.2018.8546006)]  [[Code](https://github.com/hli1221/imagefusion_deeplearning)]
+---
+
+### Multi-focus Image Fusion Using Dictionary Learning and Low-Rank Representation
+*[Hui Li](https://hli1221.github.io/), Xiao-Jun Wu*. **International Conference on Image and Graphics (ICIG), 2017**.
+
+<img src="https://github.com/hli1221/imagefusion_dllrr/blob/master/framework/framework_dllrr.png" width="600">
+
+#### [[Paper](https://link.springer.com/chapter/10.1007/978-3-319-71607-7_59)]  [[Code](https://github.com/hli1221/imagefusion_dllrr)]
+---
