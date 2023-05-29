@@ -6,6 +6,8 @@
 
 #### [[Paper](https://doi.org/10.1145/3572032)]  [[Code]()]
 
+------
+
 ### Robust supervised matrix factorization hashing with application to cross-modal retrieval
 
 *[Zhenqiu Shu](https://link.springer.com/article/10.1007/s00521-022-08006-6#auth-Zhenqiu-Shu), [Kailing Yong](https://link.springer.com/article/10.1007/s00521-022-08006-6#auth-Kailing-Yong), [Donglin Zhang](https://link.springer.com/article/10.1007/s00521-022-08006-6#auth-Donglin-Zhang), [Jun Yu](https://link.springer.com/article/10.1007/s00521-022-08006-6#auth-Jun-Yu), Zhengtao Yu & Xiao-Jun Wu*. **Neural Computing and Applications 2023.**
@@ -90,8 +92,6 @@
 ### Label Consistent Flexible Matrix Factorization Hashing for Efficient Cross-modal Retrieval
 *Donglin Zhang, Xiao-Jun Wu, Jun Yu*. **ACM Transactions on Multimedia Computing, 2021**.
 
-<img src="figs/MSC-Fuse.png" width="600">
-
 #### [[Paper](https://doi.org/10.1145/3446774)]  [[Code](https://github.com/zhangdlin/LFMH)]
 ---
 
@@ -108,7 +108,7 @@
 
 <img src="figs/scalablegif.gif" width="600">
 
-#### [[Paper](https://doi.org/10.1007/s10044-020-00870-z)]  [[Code]()]
+#### [[Paper](https://doi.org/10.1109/TCYB.2020.3032017)]  [[Code](https://github.com/zhangdlin/SDMSA)]
 ---
 
 ### Learning discriminative hashing codes for cross-modal retrieval based on multi-view features
@@ -116,6 +116,6 @@
 
 <img src="figs/learning.png" width="600">
 
-#### [[Paper](https://doi.org/10.1109/ICPR48806.2021.9412293)]  [[Code](https://github.com/thfylsty/ImageFusion_Dualbranch_Fusion)]
+#### [[Paper](https://doi.org/10.1007/s10044-020-00870-z)]  [[Code]()]
 ---
 
