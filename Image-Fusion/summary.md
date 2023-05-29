@@ -32,6 +32,14 @@
 #### [[Paper](https://doi.org/10.1049/ipr2.12473)]  [[Code](https://github.com/Zhang-ZiHan/FPNFuse)]
 ---
 
+### MEFuse: end-to-end infrared and visible image fusion method based on multibranch encoder
+*Yulu Hong, Xiao-Jun Wu, [Tianyang Xu](https://xu-tianyang.github.io/)*. **Journal of Electronic Imaging (JEI), 2022**.
+
+<img src="" width="600">
+
+#### [[Paper](https://doi.org/10.1117/1.JEI.31.3.033043)]  [[Code]()]
+---
+
 ### RFN-Nest: An end-to-end residual fusion network for infrared and visible images
 *[Hui Li](https://hli1221.github.io/), Xiao-Jun Wu, Josef Kittler*. **Information Fusion, 2021**.
 
@@ -56,6 +64,22 @@
 #### [[Paper](https://doi.org/10.1117/1.JEI.30.5.053013)]  [[Code](https://github.com/dongyuya/UMFA)]
 ---
 
+### Image fusion based on generative adversarial network consistent with perception
+*Yu Fu, Xiao-Jun Wu, Tariq Durrani*. **Information Fusion, 2021**.
+
+<img src="figs/Perceptual_FusionGan.png" width="600">
+
+#### [[Paper](https://doi.org/10.1016/j.inffus.2021.02.019)]  [[Code](https://github.com/thfylsty/imagefusion_Perceptual_FusionGan)]
+---
+
+### Effective method for fusing infrared and visible images
+*Yu Fu, Xiao-Jun Wu, Josef Kittler*. **Journal of Electronic Imaging (JEI), 2021**.
+
+<img src="" width="600">
+
+#### [[Paper](https://doi.org/10.1117/1.JEI.30.3.033013)]  [[Code]()]
+---
+
 ### NestFuse: An Infrared and Visible Image Fusion Architecture based on Nest Connection and Spatial/Channel Attention Models
 *[Hui Li](https://hli1221.github.io/), Xiao-Jun Wu, Tariq S. Durrani*. **IEEE Transactions on Instrumentation and Measurement (TIM), 2020**.
 
@@ -72,6 +96,12 @@
 #### [[Paper](https://doi.org/10.1109/TIP.2020.2975984)]  [[Code](https://github.com/hli1221/imagefusion_mdlatlrr)]
 ---
 
+### A Dual-branch Network for Infrared and Visible Image Fusion
+*Yu Fu, Xiao-Jun Wu*. **25th International Conference on Pattern Recognition (ICPR), 2020**.
 
+<img src="figs/Dualbranch_Fusion.png" width="600">
+
+#### [[Paper](https://doi.org/10.1109/ICPR48806.2021.9412293)]  [[Code](https://github.com/thfylsty/ImageFusion_Dualbranch_Fusion)]
+---
 
 
