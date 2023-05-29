@@ -24,6 +24,13 @@
 #### [[Paper](https://doi.org/10.1109/TIP.2023.3273451)]  [[Code](https://github.com/dongyuya/TGFuse)]
 ---
 
+### FPNFuse: A lightweight feature pyramid network for infrared and visible image fusion
+*Zi-Han Zhang, Xiao-Jun Wu, [Tianyang Xu](https://xu-tianyang.github.io/)*. **IET Image Processing, 2022**.
+
+<img src="figs/FPNFuse.png" width="600">
+
+#### [[Paper](https://doi.org/10.1049/ipr2.12473)]  [[Code](https://github.com/Zhang-ZiHan/FPNFuse)]
+---
 
 ### RFN-Nest: An end-to-end residual fusion network for infrared and visible images
 *[Hui Li](https://hli1221.github.io/), Xiao-Jun Wu, Josef Kittler*. **Information Fusion, 2021**.
