@@ -2,4 +2,4 @@
 
 
 ## ⭐ Works on [Image Fusion](Image-Fusion/summary.md)
-## ⭐ Works on [Multi-Modal Retrival]()
+## ⭐ Works on [Cross Modal Retrival]()
